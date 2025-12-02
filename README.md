@@ -36,3 +36,16 @@ Simply run the script using Python:
 
 ```bash
 python qr_factory.py
+
+📸 Screenshots
+
+<img width="939" height="123" alt="Screenshot 2025-12-02 195718" src="https://github.com/user-attachments/assets/239f32f5-25cb-4718-a205-18cb0b9afd26" />
+
+## ☕ Support Me
+If you like my code, you can treat me a coffee!
+(https://ko-fi.com/zidanegunawan24)
+
+## 💼 Need Custom Bot?
+I'm available for hire! Check my services on Fiverr:
+👉 **[My Fiverr Profile](https://www.fiverr.com/helliourz)**
+
